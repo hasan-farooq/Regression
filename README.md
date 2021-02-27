@@ -1,3 +1,3 @@
 # Regression
 
-To compare Linear, Polynomial, Decision Tree & Random Forest regression models for the same dataset.
+To compare Linear, Polynomial, Decision Tree, Random Forest & XGBoost Tree regression models for the same dataset.
